@@ -1,6 +1,6 @@
 **** Week 1 ****
 1) Select a dataset
-2) Evaulate different pre-trained models 
-3) Evaulate two different LLM ![](https://huggingface.co/docs/transformers/en/tasks/image_classification) models
+2) Evaulate different pre-trained mod(els 
+3) Evaulate two different LLM models https://huggingface.co/docs/transformers/en/tasks/image_classification)
 4) Report the result
 5) Check the concept of Active Learning
